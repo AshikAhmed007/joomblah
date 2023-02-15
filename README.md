@@ -1,2 +1,2 @@
 # joomblah
-python3 joomblah.py <target>
+python3 joomblah.py target_ip
